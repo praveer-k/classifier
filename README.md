@@ -1,6 +1,6 @@
 # Classifier
 
-This code base is a "JUNK" and a "Hack" developed in 3 Days (15hrs/day). The way application has been coded is not my usual style. It was created with little knowledge of Data Minig and VB.net in the year 2010. [ Don't get me wrong! today it is a piece of cake. ]
+This code base is a "JUNK" and a "Hack" developed in 3 Days (15hrs/day). The way application has been coded is not my usual style. It was created to demonstrate capabilities of Data Mining using VB.net in the year 2010.
 
 "Classification using Supervised learning" was in its developing stage during these years or we can say - "was not pervasive". Statisticians who new mathematical techniques had to struggle to put these concepts into "machine's mnemonic format". People adopted python more rapidly than other complex programming languages (langauges that gave more independence to tweak space and time taken by an app).
 
